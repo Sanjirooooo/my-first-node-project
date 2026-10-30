@@ -1,7 +1,8 @@
 const developer = {
     name: "Jiro Macabitas",
     role: "Junior Full Stack Developer",
-    skills: ["HTML", "CSS", "JavaScript", "MySQL"]
+    skills: ["HTML", "CSS", "JavaScript", "MySQL", "Node.js"
+    ]
 };
 
 console.log("Hello, World!");
